@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "50022293278",
+    "project_id": "raagavaidya-51016",
+    "storage_bucket": "raagavaidya-51016.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50022293278:android:d459e756f77e6155ddb30f",
+        "android_client_info": {
+          "package_name": "com.example.raagavaidya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzZphru-xpjbi8ZwRD30VgY8XDYBjJ9W4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
